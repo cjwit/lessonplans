@@ -1,0 +1,29 @@
+h1, h2, h3, h4, h5, h6 {
+    color: rgb(0, 136, 136)
+}
+
+/*
+.fixed {
+    position: fixed;
+}
+*/
+
+#sidebar>li>a {
+    color: #999;
+    padding: 4px, 20px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+#sidebar .nav>li>a {
+    color: #999;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 30px;
+    font-size: 12px;
+}
+
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
