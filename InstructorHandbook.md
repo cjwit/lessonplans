@@ -207,16 +207,27 @@ My slides from the video that is currently posted in IFS2072 are below. This vid
 
 ## <a name='courses'></a>Specific Information on Each Course
 
-By category (MUH2051, MUH2512, IFS2073 are all together)
-Links to project descriptions, rubrics, examples for each
+These courses are largely structures to work similarly, but the project-based components are quite different. For most assignments--including introductory ones, group discussions, blog posts, musical event reports, and others--directions are clearly outlined within the Blackboard interface. I will include links, however, here for the major projects. Examples for all major projects are posted to Blackboard.
 
 ### <a name='popular'></a>Popular Music
 
+* Unit 1 Project: Blues and Tin Pan Alley Directions [PDF](IFS2072/projects/1-Directions.pdf) | [DOCX](IFS2072/projects/1-Directions.docx)
+* Unit 1 Project: Blues and Tin Pan Alley Rubric [PDF](IFS2072/projects/1-Rubric.pdf) | [DOCX](IFS2072/projects/1-Rubric.docx)
+* Unit 2 Project: Music and Race Essay Directions [PDF](IFS2072/projects/2-Directions.pdf) | [DOCX](IFS2072/projects/2-Directions.docx)
+* Unit 2 Project: Music and Race Essay Rubric [PDF](IFS2072/projects/2-Rubric.pdf) | [DOCX](IFS2072/projects/2-Rubric.docx)
+* Unit 3 Project: Social Movements Directions [PDF](IFS2072/projects/3-Directions.pdf) | [DOCX](IFS2072/projects/3-Directions.docx)
+* Unit 3 Project: Social Movements Rubric [PDF](IFS2072/projects/3-Rubric.pdf) | [DOCX](IFS2072/projects/3-Rubric.docx)
+* Unit 4 Project: Hip Hop Culture Directions [PDF](IFS2072/projects/4-Directions.pdf) | [DOCX](IFS2072/projects/4-Directions.docx)
+* Unit 4 Project: Hip Hop Culture Rubric [PDF](IFS2072/projects/4-Rubric.pdf) | [DOCX](IFS2072/projects/4-Rubric.docx)
+
 ### <a name='world'></a>World Music
+
+Find rubric for major projects, discussions?
+`INCLUDE MATERIAL ON EXTRA CREDIT, MAYBE ABOVE?`
 
 ### <a name='classical'></a>Music Appreciation
 
-## <a name='funding'></a>Funding Issues and Opportunities
+Blog post text
 
 ## <a name='contacts'></a>Important Contacts
 
