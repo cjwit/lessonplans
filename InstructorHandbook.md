@@ -135,36 +135,60 @@ This list gets reported and non-responsive students are automatically dropped fr
 
 ### <a name='group-setup'></a>Setting up Groups
 
+Both E-Series courses require extensive group work and at least one group project in each course involves extensive technology usage. I created and posted tutorials that scaffold skills with programs like GarageBand and iMovie, but learning software is not the purpose of these assignments. Instead, I prefer to have some students with familiarity with each type of media technology in each group. To this end, one of the early assignments is a `group organization survey`.
 
+Note that the name is problematic for students because of the way Blackboard deals with surveys. Surveys are anonymous, which makes them useless for group setup purposes. Therefore, the survey is a quiz that is graded. If you hide the grade (set it to not release when you create the quiz link and update the deadline), students *should* not be able to see their score. This gives you the opportunity to change all completed surveys to perfect scores before you release the results. It works as a sort of bonus point toward their quiz grade, though you could make it worth nothing if you prefer.
 
-SET UP GROUPS
-Get organization results
-Set up groups (organize by honors, distance, rare skills)
-Post groups (can be a TA job)
-Assign contract in announcement (same due date as Unit 1 drafts)
-Remind of upcoming deadlines: intro stuff is done, contract and Unit 1 drafts are coming
-By now, enter in accommodations
+You can download the results from the Blackboard Grade Center, though they are in a computer formatted (HTML) markup. The easiest way to rid yourself of the bulky code is to use a text editor that allows for something equivalent to *Regular Expressions*. On an Apple computer, have found TextEdit (which comes pre-installed) to be especially good at this.
 
-### <a name='projects'></a>Unit Projects
+#### Organizing Groups
 
-UNIT PROJECTS
-Where drafts and reviews are due, have TA mark off submissions and comments on Google Sheet
-Grade directly in Turnitin
+* Open the downloaded document in TextEdit and convert it to plain text using `Shift+Command+T`. Use `Command+F` to open the Find dialogue, and check the `Replace` box.
+* Clicking the magnifying glass that is in the search bar brings up a menu. From here, choose `Insert Pattern`. Choose `Any`.
+* HTML is written using angular brackets, and you want to remove any text that is *between* these brackets. So now that you have `Any` in your search bar, put an angular bracket on each side: `<` to the left of `Any` and `>` to the right (so you have `<Any>`, where `Any` is in a box).
+* Leaving the `Replace` bar empty will simply remove the markup.
+* Click `Replace All` and viola.
+
+You may need to do similar Find/Replace edits to remove other artifacts of the code, depending on how you exported the file. Other programs have similar functionality, though the system for doing this with Microsoft Word is more complicated. I have found plain text editors that are geared toward programing, like GitHub's Atom.io, to be useful for these kinds of tasks.
+
+Using the process above, you can turn each response into easily sortable code. Replace the text for the response saying that the student is in the Honors program, for example, with the word Honors followed by a comma. Same for Panama City, whether the student has iMovie experience, etc. By splitting these with commas, you can turn the document into a CSV, which will open in Excel or another spreadsheet program for easier organization.
+
+I prioritized location (in Panama City, in Tallahassee, or working from distance) and Honors status (enrolled in the proper section of the course) when creating groups. That is not necessary, but worked well. Then I began sorting groups within each of those categories by splitting up the students who had the most rare experiences (usually music and film editing). From there, I moved the rest around until each group had an even(-ish) number of students with each skill set. Groups of five or 6 worked well and allowed for a few dropouts without greately affecting the workload.
+
+Actually creating the groups is fairly tedious and is a good job for a teaching assistant. You need to manually create each and enter the members individually. Blackboard's group tool is good, if slow. I allowed for discussion boards and file exchange, but few other skills as I wanted the groups to work out their own systems through the group contract assignment.
+
+#### Group Contracts
+
+Once groups are set, announce them to the course. Students can access their groups through the `My Groups` tab. It is worth notifying them that they have the option to subscribe to discussion forums: they will receive emails upon any updates.
+
+During recent semesters, I tried letting students work out their own expectations for group members. This was the goal of the Group Contract assignment. It forced groups to work together to come up with systems that would orient their semester. It also eased any accountability issues that came later, as I could refer to these contracts when students failed to do their part later in the course. I suggest keeping this system, though you can easily create your own expectations for how and when groups will communicate. (Communication is, not surprisingly, the most difficult challenge for group work in a distance learning course.)
+
+### <a name='projects'></a>Project Grading
+
+Unit or Semester-long projects comprise the bulk of grades for E-Series courses. They are currently set so that the majority of each grade is for individual work, though they remain group projects at their core. There is information on the specific projects for each course in the [Specific Information on Each Course](#courses) section below.
+
+Grading for these multi-stage projects is easiest outside of Blackboard. When working with a reader, create clear Google Docs spreadsheets to use throughout the course and share them with the team. Blackboard's tools are neither well-designed nor are they well-suited for this kind of grading. Some tools (like the `Needs Grading` tool in the Grade Center) are notable exceptions worth using for individual submissions. Using Google Docs allows for the grader to have two windows open and quickly move between them without reloading pages, but as always with an online course, initial setup and structure is worth thinking about beforehand to avoid confusion later in the semester.
+
+I required that all final submissions go through Turnitin, directly through Blackboard submission links. If you submit drafts through this tool, then final products will report high degrees of copying (drawn from the draft). Students don't always look to their Turnitin pages for comments right away, but the interface is far stronger to use than other online tools.
 
 ### <a name='quizzes'></a>Quizzes
 
-QUIZZES
-Set reminders to release grade on the morning after they are done
-Set unsubmitted or late to zero or they will not be counted
-Links to quiz formatting
+As noted in the syllabus for each course, students get three attempts at quizzes. The quizzes are open book, primarily because there is no way to ensure that the book is closed. Requiring the use of testing centers makes it difficult for students working from distance to enroll. Timers set for each quiz attempt, and rotating questions, render it necessary for students to read and take notes before the quiz, which is the aim, right?
+
+The three attempts are not for improving low grades. Some students will try to do so, but I always make it clear in announcements and other course materials that taking a test a third time for the sake of grades will not be an excuse enabling a fourth attempt if there is a technology problem. Taking it three times because of a recurring issue (or documentable terrible luck) could be. To attempt an enforcement of this policy, I have chosen to delay the release of grades until after the deadline passes. Similarly, students can only see a subset of answers, an effort that I hope preserves these quizzes from the types of online resources that sell quiz results. Also to that end, deliver quizzes one question at a time when publishing them and setting the deadlines.
+
+After the deadline passes, you will need to go through and give unsubmitted quizzes a grade of zero. Otherwise, they will be averaged into the student's grade.
+
+I generally announced upcoming quiz deadlines two or three days early, though this is something that you could automate by creating announcements at the beginning of the semester and delaying them through Blackboard.
 
 ### <a name='discussions'></a>Discussions and Blogs
 
-DISCUSSIONS
-Grading processes
-Using built-in system vs just keeping a spreadsheet
+I have found keeping a spreadsheet to be a far more time-effective way to grade discussion posts and blogs when compared to the built-in methodologies that Blackboard offers. As above, it is quicker to open the entire thread in one page and scroll while switching between the web browser and a spreadsheet than it is to reload individual pages as is required by the `Needs Grading` tool.
+
+As you will see in the directions, I set pairs of deadlines for each discussion and blog assignment. The first is for an initial post and is usually on a Friday evening. The second is for comments and is usually on a Monday evening. This prevents the situation where a student logs in early to complete the work and has no (or few) other posts available to comment on. It has worked well and I have had no complaints from students about logging in twice. It also spreads the discussion around via comments on more different posts.
 
 ## <a name='honors'></a>Honors Students
+
 
 HONORS PROJECT
 Fieldwork video posted in IFS2072, could also go into IFS2073
