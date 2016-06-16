@@ -87,7 +87,7 @@ These are general steps to be taken before the beginning of a given semester.
 
 2. **Update the course syllabus** heading information, any textbook changes (such as edition), and the course schedule for the current semester's dates.
 
-3. **Read through these materials** and share the TA handbook with your readers.
+3. **Read through these materials** and share relevant sections with your readers.
 
 4. **Copy the course into the new location** once Blackboard is up and running. You can use the aptly named "course copy tool."
 
