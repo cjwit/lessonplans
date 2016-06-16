@@ -189,15 +189,21 @@ As you will see in the directions, I set pairs of deadlines for each discussion 
 
 ## <a name='honors'></a>Honors Students
 
+### About the Project
 
-HONORS PROJECT
-Fieldwork video posted in IFS2072, could also go into IFS2073
-Recommend doing this live
-Organizing times
-Using honors college for presentation
-Examples in presentation, also submissions for draft stage
-Good opportunity for a TA to work with honors students, teach fieldwork
-Examples, rubrics, directions
+The E-Series courses have generally been offered as Honors-Augmented, meaning students from the Honors program can take them for credit, provided they complete a reasonable project or otherwise earn the credit. I have chosen to require an ethnographic fieldwork project that has them go out into their community and study a way in which people engage musical activity. This may overlap with other projects in the course, but any relationship must be articulated in the early-semester proposal along with how this research design differs to the point where it is independent of the similar group work.
+
+If an Honors student is enrolled in the regular (non-Honors-Augmented) section, she does not need to complete the assignment, but will not receive Honors credit. Similarly, if a student enrolled in the Honors section does not complete the assignment or does not do so satisfactorily (I put a cutoff at a grade of 70%), you can contact the Honors program directly to have them switch her into the regular section near the end of the semester.
+
+### Stages
+
+The project is divided into three main segments: the proposal, the draft, and the final paper. First, however, students need an introduction to fieldwork methods. I generally have done this as a one-hour live session. You can get a room in the Honors building, a place that most of the students know well, and schedule it via email (or just post a few options). The live meeting session allows for the instructor to give feedback on ideas that are especially broad, problematic, or narrow. This is also a good opportunity for a graduate reader to create and teach a session on ethnographic methodologies, heavily distilled.
+
+My slides from the video that is currently posted in IFS2072 are below. This video can also be used for IFS2073. I provide examples from past students on Blackboard. Relevant materials, taken from the popular music course but largely identical to those in the world music class are here:
+
+* Honors project directions [PDF](Honors/Honors-Directions.pdf) | [DOCX](Honors/Honors-Directions.docx)
+* Honors project rubric [PDF](Honors/Honors-Rubric.pdf) | [DOCX](Honors/Honors-Rubric.docx)
+* Video Slides [PDF](Honors/HonorsSlides.pdf)
 
 ## <a name='courses'></a>Specific Information on Each Course
 
