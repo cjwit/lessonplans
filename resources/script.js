@@ -27,7 +27,7 @@ var createMenu = function() {
     });
 }
 
-$.get('/InstructorHandbook.md', function(text) {
+$.get('InstructorHandbook.md', function(text) {
     // console.log(marked(text));
     $("#content").html(marked(text));
     createMenu();
