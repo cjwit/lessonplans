@@ -4,7 +4,7 @@ var createMenu = function() {
 
         // create the link
         var link = $('<a></a>');
-        var target = $(this).find('a').attr('name')
+        var target = $(this).attr('id');
         link.text($(this).text());
         link.attr('href', "#" + target);
 
@@ -19,10 +19,16 @@ var createMenu = function() {
         } else {
             $('#sidebar>li:last-of-type ul').append(item);
         }
-    })
+    });
+
+    $('body').scrollspy({
+        target: '#sidebar-container',
+        offset: 80
+    });
 }
 
 $.get('/InstructorHandbook.md', function(text) {
+    // console.log(marked(text));
     $("#content").html(marked(text));
     createMenu();
 })

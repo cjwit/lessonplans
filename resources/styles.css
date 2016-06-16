@@ -1,18 +1,28 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    position: relative;
+}
+
 h1, h2, h3, h4, h5, h6 {
     color: rgb(0, 136, 136)
 }
 
-/*
 .fixed {
+    width: 30%;
     position: fixed;
 }
-*/
 
-#sidebar>li>a {
+#sidebar {
+    margin-top: 40px;
+}
+
+#sidebar li>a {
     color: #999;
     padding: 4px, 20px;
     font-size: 13px;
     font-weight: 400;
+    border-left: 2px solid transparent;
 }
 
 #sidebar .nav>li>a {
@@ -23,7 +33,24 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 12px;
 }
 
-body {
-    padding-top: 50px;
-    padding-bottom: 50px;
+#sidebar-container .nav>.active>a,
+#sidebar-container .nav>li>a:hover,
+#sidebar-container .nav>li>a:focus {
+    border-left: 2px solid rgb(156, 46, 141);
+    color: rgb(156, 46, 141);
+    font-weight: 700;
+}
+
+#sidebar-container .nav .nav>.active>a,
+#sidebar-container .nav .nav>active:hover,
+#sidebar-container .nav .nav>active:focus {
+    font-weight: 500;
+}
+
+#sidebar-container .nav ul.nav {
+    display: none;
+}
+
+#sidebar-container .nav>.active>ul.nav {
+    display: block;
 }
