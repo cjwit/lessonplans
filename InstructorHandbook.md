@@ -276,6 +276,8 @@ I use [GitHub's Atom plain text editor](https://atom.io) to create and edit this
 
 By editing the file `InstructorHandbook.md`, the `index.html` file and its associated JavaScript files will auto-magically render your new content and create an appropriate menu bar. I wrote the page to work on a regular computer, but you could modify it to read more effectively on mobile by using some of the features of Bootstrap and jQuery, both of which are already attached to this site.
 
+**One important note:** the script generates links from first- and second-level subheadings. This means that you need to use the first-level subheading for sections (two hashtags: `##`) and second-level ones (three hashtags: `###`) to ensure links show up. I use the top level heading (one hashtag: `#`) for the page title only and four hashtags (`####`) to give me some more subsections that do not deserve dedicated links. Just copy the pattern within the file as it currently exists.
+
 ### <a name='pandoc'></a>Creating a Microsoft Word Document
 
 If you prefer to just work within a Word document, I provide that in these files here [MS Word, DOCX Version](InstructorHandbook.docx). If, however, you are like me and dislike Word, and want to continue life in Markdown, but need an edited Word version to share, it is shockingly easy to make the conversion.
