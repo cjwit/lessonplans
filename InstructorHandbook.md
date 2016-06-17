@@ -4,6 +4,8 @@
 
 These materials provide a guide to teaching the large online non-major courses at FSU that were created by Christopher Witulski between 2014 and 2016. Please send any questions to [cwitulski@fsu.edu](mailto:cwitulski@fsu.edu). These documents are designed to be easy to edit and update using Markdown syntax converted to HTML with [Pandoc](http://pandoc.org). There is a [DOCX version](InstructorHandbook.docx) as well, though it is 15 pages of single spaced type and therefore  not set up for easy navigation. See [Editing this Documentation](#edit-docs) for directions on using Markdown, converting to DOCX, and editing this website.
 
+If you are a teaching assistant, there is [information for you below](#ta)!
+
 ## <a name='about'></a>About these Courses
 
 This suite of courses includes classes focused on world music, popular music, and Western music history. They exist simultaneously at a number of levels so that different offerings are available depending on department need. As of summer 2016, we have been focused on IFS2072 *A Social History of American Popular Music*, IFS2073 *Music in the World*, and MUL2010 *Music Literature, Listening, and Understanding*. These choices are largely based on recent changes to the FSU liberal studies program, but as that adaps and evolves, other levels of each set of content may become necessary. The same content can be used in approved versions of MUH2019 *Modern Popular Music*, MUH2051 *Music in World Cultures*, and MUH2512 *Music in World Cultures-Majors*. These have been approved by the Faculty Senate and can run with minimal adaptation to the current online structures. The main changes would require adjustments as appropriate to the projects: as those courses are not approved for E-Learning designations, there is more flexibility for the instructor to change or remove collaborative multi-stage projects.
@@ -264,7 +266,7 @@ At the outset, I am posting these materials as a website through my own GitHub a
 
 1. Download the [ZIP file of these materials](Handbooks.zip).
 
-2. You can unzip the documents from this folder and access the individual PDF, DOCX, and RTF files that way. If you want to use the website version of this documentation, however, you will likely need to set up a local server. This is easy to do from the command line using Python, which is pre-installed on Apple computers. Use the `terminal` to navigate to the handbooks folder and enter `python -m SimpleHTTP 8000`. Then open a web browser and go to `localhost:8000`. I have streamlined this process using a small bash script (it navigates, opens a browser window to the correct page, and runs the server) that I leave on my desktop. I would be happy to share that with you if you are interested.
+2. You can unzip the documents from this folder and access the individual PDF, DOCX, and RTF files that way. If you want to use the website version of this documentation, however, you will likely need to set up a local server. This is easy to do from the command line using Python, which is pre-installed on Apple computers. Use the `terminal` to navigate to the handbooks folder and enter `python -m SimpleHTTP 8000`. You can find the Terminal on OSX using `Command+Space` to bring up a search bar and typing in... `terminal`. Other systems have similar command line programs. Then open a web browser and go to `localhost:8000`. I have streamlined this process using a small bash script (it navigates, opens a browser window to the correct page, and runs the server) that I leave on my desktop. I would be happy to share that with you if you are interested.
 
 3. To post these documents online, perhaps for ease of use or so that you can share them with your teaching assistants, you will need a hosting service. FSU offers free space through their IT department. You can find information (as of now) at [their web site](http://its.fsu.edu/Web-Services/Web-Sites-for-Individuals). Once that is running, you should be able to follow their directions to mount the drive from your computer. Then just copy the folder into the page and navigate your browser to the `index.html` file.
 
@@ -313,3 +315,60 @@ Teaching these courses situates you between a handful of departments. The people
 * Michelle Pohto ([mmpohto@fsu.edu](mailto:mmpohto@fsu.edu)) can assist with similar financial questions arising from the College of Music side of things.
 * Christopher Witulski (me!, [chris.witulski@gmail.com](mailto:chris.witulski@gmail.com)) developed the courses and is happy to provide any answers, insight, or advice as you move through teaching them.
 * Colin Creasy ([ccreasy@campus.fsu.edu](mailto:ccreasy@campus.fsu.edu)) directs the media team at ODL. He has resources to assist in the creation of new video content. If and when you decide to build new lessons, he can help to make them look professional and give guidance on how to ensure student engagement.
+
+## <a name='ta'></a>Teaching Assistant Handbook
+
+### So, I’m a reader for online classes…
+
+Welcome to the new semester. This will give you some direction as to what you can expect for your workload and schedule. Your main responsibilities will include some combination of:
+
+* Reading and grading discussion boards and/or blog entries and comments,
+* Reading and commenting on project drafts,
+* Reading and grading project submissions,
+* Reading and grading other essay submissions.
+
+### Expectations
+
+My expectations for students of online courses align closely with those I have for graders. These courses are tricky in that it feels as if you have infinite time to complete assignments, but success is really measured by your ability to manage your workload.
+
+I expect you to grade assignments quickly when they are due. It is incredibly important for students in online classes to feel like they are getting the attention of instructors and graders. Otherwise these can feel like robo-classes. Assignments are usually due at the conclusion of units and in some classes this is only a few times each semester. That said, a big pile of work can appear suddenly once those deadlines hit. I expect you to plan ahead so you can attack that pile when it comes. Deadlines are posted in the calendar, so you should be aware.
+
+I expect you to keep track of your hours spent on this work. Your assistantship exists to support your education. It should not get in the way! You don’t get paid enough to work “overtime.” You should never go over your allotted hours, but recognize that some weeks will be very full while others may be nearly empty. Plan accordingly.
+
+I expect you to maintain contact and respond to emails within 24 hours during the week. I do this for the students, but I do not expect that you stay tethered to your phone or computer at all times.
+
+I expect that you run any student concerns or other issues through me. Your role in these classes does not require you to engage students directly in any way other than commenting on their work. If you have any questions or suspect anything like plagiarism in your charges’ work, point it out to me, give me some details, and let me deal with the student. This is to protect you from any fallout or administrative concerns that may arise.
+
+I expect you to be respectful and helpful when commenting on student writing. Comments and responses to student work should be constructive and supportive. If you have real concerns with a student’s work and feel that you cannot respond to it in a constructive way, or you feel that it is, in turn, derogatory or otherwise unacceptable, point it out to me and let me deal with it instead.
+
+I expect you to point out any potential instances of plagiarism, bullying, inappropriate responses, or other concerns on the part of students directly to me. As above, you do not need to deal with these issues when they come up, but you will need to bring them to my attention quickly so I can speak with the student and remove any questionable content from the course site.
+
+I expect you to have your technology in order so that you can access the course’s Blackboard interface and complete your work within it. If your computer is struggling, you are free to use the one in the online graduate TA office in Kellogg 314.
+
+If you have any questions about these expectations, let me know.
+
+### About These Classes
+
+E-Series courses are generally group project based, by design. This has to do with requirements for the new liberal studies regimes. MUL2010 and other non-E-Series courses focus on individual assignments.
+
+Individual assignments range throughout the different online courses. Some require multi-step group work while others are individual essays. Grading rubrics for the different assignments are posted in Blackboard along with the directions.
+
+### Getting Started
+
+These courses are set up to allow for students who join at the very end of add/drop to participate right away. That means that there are no substantive reading or writing assignments in the first few weeks of classes (as we wait for people to get their textbooks). There are lectures to watch and musical examples to listen to, but you will not need to grade until the third or fourth week of the semester. Use that time to get your own world in order, but also take a few minutes to look over the Blackboard site, read the syllabus, note the deadlines, determine ways to ensure that you will be able to grade quickly after due dates, and get your own copy of the text if you do not have one already.
+
+I do not expect you to watch all of the lecture videos, just as I would not expect you to attend every period of a live class, but you should do enough to get an idea of how the instruction works. If you cannot access the Blackboard page, let me know so that I can make sure that you are an active user.
+
+If you notice any broken links on your exploration or other technical problems, please bring them to my attention. As different services update and move around, little issues are always popping up.
+
+### Types of Assignments
+
+**Discussions and blog posts:** For these assignments, students are required to post a substantive response to a prompt within a given word count. They have a few days after the initial post due date to make substantive comments on two peers’ posts. Their score is a result of all three submissions and you can grade them together. The easiest way to do this is using the “Needs Grading” tool within Blackboard’s Grade Center. This allows you to filter groups (if applicable) and by assignment. You can then work right down your list of students.
+
+**Musical Event Reports:** These work a bit differently than you may expect as students are required to participate in some way (beyond listening) for at least one of the two. Read the assignment directions on Blackboard to familiarize yourself with the requirements. You will grade and comment on these through Turnitin’s tools or SafeAssign. For the second set, due near the end of the semester, you will need to ensure that at least one of the two submissions were participatory. If you are grading a submission that is focused on listening, check the student’s previous one to confirm that it fulfilled the requirement. If a student fails to submit at least one that involved participation in a way other than as a listener, notify me and I will work it out with the student.
+
+**Major projects:** The ethnographic video project in IFS2073 is a semester-long endeavor. IFS2072 features a number of shorter unit projects. Each of these require multiple steps and, in some cases, multiple stages of submission, revision, peer review, etc. Groups members will be defining their own roles, submitting group and individual responses to different prompts, and otherwise working independently and together. Even though this is the nature of the E-Series program, some students will complain about its application to an online setting. If any come to you, forward them to me (though this is rare).
+
+You will be responsible for a set of groups that may or may not rotate. On occasion, and especially after due dates, take a quick browse through the group discussion to ensure that no “funny business” went down. If there are major complaints about group members who are not participating, or if it seems that one or two people are doing all the work, bring it to my attention. You do not need to do a thorough accounting of the division of labor. This is the responsibility of the groups themselves and there are ways in which group participation issues percolate into the course grades already. Any glaring problems, though, you should bring to my attention.
+
+Contact your instructor about how to get enrolled in the class, started with the semester, and if you have any questions!
