@@ -2,7 +2,7 @@
 
 ## <a name='top'></a>Documentation for Online Courses
 
-These materials provide a guide to teaching the large online non-major courses at FSU that were created by Christopher Witulski between 2014 and 2016. Please send any questions to [cwitulski@fsu.edu](mailto:cwitulski@fsu.edu). These documents are designed to be easy to edit and update using Markdown syntax converted to HTML with [Pandoc](http://pandoc.org). See [Editing this Documentation](#edit-docs), below.
+These materials provide a guide to teaching the large online non-major courses at FSU that were created by Christopher Witulski between 2014 and 2016. Please send any questions to [cwitulski@fsu.edu](mailto:cwitulski@fsu.edu). These documents are designed to be easy to edit and update using Markdown syntax converted to HTML with [Pandoc](http://pandoc.org). There is a [DOCX version](InstructorHandbook.docx) as well, though it is 15 pages of single spaced type and therefore  not set up for easy navigation. See [Editing this Documentation](#edit-docs) for directions on using Markdown, converting to DOCX, and editing this website.
 
 ## <a name='about'></a>About these Courses
 
@@ -42,16 +42,16 @@ Each syllabus includes required FSU language, but also contains language specifi
 Other documents for each course, including project directions and rubrics, are under [Specific Information on Each Course](#courses).
 
 IFS2072 *A Social History of American Popular Music*:
-* Syllabus [PDF](IFS2072/docs/IFS2072-Syllabus.pdf) | [DOCX](IFS2072/docs/IFS2072-Syllabus.docx)
-* Schedule [PDF](IFS2072/docs/IFS2072-Schedule.pdf) | [DOCX](IFS2072/docs/IFS2072-Schedule.docx)
+* Syllabus [PDF](CourseDocs/IFS2072-Syllabus.pdf) | [DOCX](CourseDocs/IFS2072-Syllabus.docx)
+* Schedule [PDF](CourseDocs/IFS2072-Schedule.pdf) | [DOCX](CourseDocs/IFS2072-Schedule.docx)
 
 IFS2073 *Music in the World*:
-* Syllabus [PDF](IFS2073/docs/IFS2073-Syllabus.pdf) | [DOCX](IFS2073/docs/IFS2073-Syllabus.docx)
-* Schedule [PDF](IFS2073/docs/IFS2073-Schedule.pdf) | [DOCX](IFS2073/docs/IFS2073-Schedule.docx)
+* Syllabus [PDF](CourseDocs/IFS2073-Syllabus.pdf) | [DOCX](CourseDocs/IFS2073-Syllabus.docx)
+* Schedule [PDF](CourseDocs/IFS2073-Schedule.pdf) | [DOCX](CourseDocs/IFS2073-Schedule.docx)
 
 MUH2010 *Music Literature, Listening, and Understanding*:
-* Syllabus [PDF](MUH2010/docs/MUH2010-Syllabus.pdf) | [DOCX](MUH2010/docs/MUH2010-Syllabus.docx)
-* Schedule [PDF](MUH2010/docs/MUH2010-Schedule.pdf) | [DOCX](MUH2010/docs/MUH2010-Schedule.docx)
+* Syllabus [PDF](CourseDocs/MUH2010-Syllabus.pdf) | [DOCX](CourseDocs/MUH2010-Syllabus.docx)
+* Schedule [PDF](CourseDocs/MUH2010-Schedule.pdf) | [DOCX](CourseDocs/MUH2010-Schedule.docx)
 
 ## <a name='teaching'></a>Teaching the Online Courses
 
@@ -100,6 +100,8 @@ These are general steps to be taken before the beginning of a given semester.
 8. **Assign quizzes by updating the due dates.** In most of these courses, the assessments are grouped together, making this task easier.
 
 9. **Clear out any old materials** like announcements, discussion posts, or other remaining content from the assignments portions of the course site.
+
+10. **Determine a grading schedule** and send it to your teaching assistant so that she has a clear set of deadlines for when you expect grades to be complete. This will also help in ensuring that too many grades are not due simultaneously.
 
 ### <a name='first-day'></a>First Day of the Semester
 
@@ -187,6 +189,12 @@ I have found keeping a spreadsheet to be a far more time-effective way to grade 
 
 As you will see in the directions, I set pairs of deadlines for each discussion and blog assignment. The first is for an initial post and is usually on a Friday evening. The second is for comments and is usually on a Monday evening. This prevents the situation where a student logs in early to complete the work and has no (or few) other posts available to comment on. It has worked well and I have had no complaints from students about logging in twice. It also spreads the discussion around via comments on more different posts.
 
+### <a name='musical-events'></a>Musical Event Reports
+
+World music and music appreciation makes use of a "musical event report." In an attempt to get away from the standard "concert report," these musical event reports take a more broad view of what counts. First, for at least one of them, a student must be actively involved in a way other than listening. As stated in the directions, this can be almost anything from singing to helping set up and tear down the event. I am drawing from Christopher Small's "musicking" here. For the other, students have the option to attend and describe a concert, but the directions require a more ethnographic description than the standard. In part, this is because I developed these reports for the world music class, but this type of ethnography-ish report is also useful for music appreciation students who have little or no experience with the classical music community.
+
+* Musical Event Report Directions [RTF](Assignments/MusicalEvents.rtf)
+
 ## <a name='honors'></a>Honors Students
 
 ### About the Project
@@ -207,36 +215,99 @@ My slides from the video that is currently posted in IFS2072 are below. This vid
 
 ## <a name='courses'></a>Specific Information on Each Course
 
-These courses are largely structures to work similarly, but the project-based components are quite different. For most assignments--including introductory ones, group discussions, blog posts, musical event reports, and others--directions are clearly outlined within the Blackboard interface. I will include links, however, here for the major projects. Examples for all major projects are posted to Blackboard.
+These courses are largely structures to work similarly, but the project-based components are quite different. For most assignments--including introductory ones, group discussions, blog posts, musical event reports, and others--directions are clearly outlined within the Blackboard interface. I will include links, however, here for the major projects. These documents are meant for students to download and keep available. Smaller assignments are described in Blackboard itself. Examples for all major projects are also posted to Blackboard.
+
+I provide a written extra credit opportunity for the two E-Series courses. It is primarily a listening assignment that requires students to reflect back on the concepts they learned throughout the semester. This is described on Blackboard for each course, but here are the directions for the popular music version. The world music version is largely identical, but draws from past Grammy nominees from the world music category (or something else as approved).
+
+* IFS2073 Extra Credit [RTF](Assignments/EC.rtf)
 
 ### <a name='popular'></a>Popular Music
 
-* Unit 1 Project: Blues and Tin Pan Alley Directions [PDF](IFS2072/projects/1-Directions.pdf) | [DOCX](IFS2072/projects/1-Directions.docx)
-* Unit 1 Project: Blues and Tin Pan Alley Rubric [PDF](IFS2072/projects/1-Rubric.pdf) | [DOCX](IFS2072/projects/1-Rubric.docx)
-* Unit 2 Project: Music and Race Essay Directions [PDF](IFS2072/projects/2-Directions.pdf) | [DOCX](IFS2072/projects/2-Directions.docx)
-* Unit 2 Project: Music and Race Essay Rubric [PDF](IFS2072/projects/2-Rubric.pdf) | [DOCX](IFS2072/projects/2-Rubric.docx)
-* Unit 3 Project: Social Movements Directions [PDF](IFS2072/projects/3-Directions.pdf) | [DOCX](IFS2072/projects/3-Directions.docx)
-* Unit 3 Project: Social Movements Rubric [PDF](IFS2072/projects/3-Rubric.pdf) | [DOCX](IFS2072/projects/3-Rubric.docx)
-* Unit 4 Project: Hip Hop Culture Directions [PDF](IFS2072/projects/4-Directions.pdf) | [DOCX](IFS2072/projects/4-Directions.docx)
-* Unit 4 Project: Hip Hop Culture Rubric [PDF](IFS2072/projects/4-Rubric.pdf) | [DOCX](IFS2072/projects/4-Rubric.docx)
+The popular music course is divided into four major units. Each has its own project. The projects build from mostly individual work to mostly collaborative work, which allows the students to get used to working together over the course of the semester. This does not prevent all group issues from arising, but does alleviate most.
+
+The last project (hip hop culture) involves creating a hip hop music video from scratch. This one may need some guidance and there is a wide range of quality. Usually three or four are outstanding while many others are pretty solid. I provide a YouTube playlist of examples on Blackboard. Using a tool like KeepVid, you may want to update that playlist as great projects come and go each semester.
+
+* Unit 1 Project: Blues and Tin Pan Alley Directions [PDF](Assignments/IFS2072/1-Directions.pdf) | [DOCX](Assignments/IFS2072/1-Directions.docx)
+* Unit 1 Project: Blues and Tin Pan Alley Rubric [PDF](Assignments/IFS2072/1-Rubric.pdf) | [DOCX](Assignments/IFS2072/1-Rubric.docx)
+* Unit 2 Project: Music and Race Essay Directions [PDF](Assignments/IFS2072/2-Directions.pdf) | [DOCX](Assignments/IFS2072/2-Directions.docx)
+* Unit 2 Project: Music and Race Essay Rubric [PDF](Assignments/IFS2072/2-Rubric.pdf) | [DOCX](Assignments/IFS2072/2-Rubric.docx)
+* Unit 3 Project: Social Movements Directions [PDF](Assignments/IFS2072/3-Directions.pdf) | [DOCX](Assignments/IFS2072/3-Directions.docx)
+* Unit 3 Project: Social Movements Rubric [PDF](Assignments/IFS2072/3-Rubric.pdf) | [DOCX](Assignments/IFS2072/3-Rubric.docx)
+* Unit 4 Project: Hip Hop Culture Directions [PDF](Assignments/IFS2072/4-Directions.pdf) | [DOCX](Assignments/IFS2072/4-Directions.docx)
+* Unit 4 Project: Hip Hop Culture Rubric [PDF](Assignments/IFS2072/4-Rubric.pdf) | [DOCX](Assignments/IFS2072/4-Rubric.docx)
 
 ### <a name='world'></a>World Music
 
-Find rubric for major projects, discussions?
-`INCLUDE MATERIAL ON EXTRA CREDIT, MAYBE ABOVE?`
+Unlike the popular music course, the world music one operates through one major project that is split into segments. This is also a video project, but revolves around local ethnography. Groups submit a proposal and other materials through the semester as they work toward their final video submission.
+
+If groups who are working from distance struggle to think of a feasible project, you may want to suggest something comparative: different settings of the same type of activity. Or they can split their roles and responsibilities in a way that does not require them to be in the same space: one person does all of the video work, for example. It will be up to them and, on occasion, the extra organization required for a project from distance may contribute to a stronger final product.
+
+* Ethnographic Video Project Directions and Rubric [PDF](Assignments/IFS2073/Video-Directions.pdf) | [DOCX](Assignments/IFS2073/Video-Directions.docx)
+
+Information on other course requirements are posted directly in Blackboard. See [Musical Event Reports](#musical-events) for a description of that assignment type.
 
 ### <a name='classical'></a>Music Appreciation
 
-Blog post text
+Unlike the E-Series courses, MUH2010 does not revolve around major group projects. Because it does not satisfy those requirements, I try to keep the assignments more simple. Writing is still important, but understanding and working with the main concepts is far more so. Therefore, this course operates on quizzes and blog posts. The blogs are largely identical to what a discussion board posting would do, but the interface is more straightforward and easier to scroll through for reading and grading. Many of these are creative in nature, forcing students to listen and think about sound as narrative, in contemporary contexts, etc. Directions for each are on Blackboard.
+
+The blogs operate on a similar two-part deadline as the discussion posts above. Initial posts are due by a certain deadline and two comments are due a few days later. I generally build an informal rubric based on the directions where each element of the initial post is worth 1-2 points, adding up to 6 or 8. Each comment is then worth 1 or 2 to add up to 10 total. Comments, as stated in the directions, must be substantive to get full credit. Students generally do well, unless they simply do not make their comments or miss deadlines. Thus is the nature of responsibility within an online course.
+
+For a short description of the musical event reports, see [Musical Event Reports](#musical-events) above.
+
+## <a name='edit-docs'></a>Editing this Documentation
+
+Perhaps it is because I am a nerd, but I find `Markdown` to be far simpler than struggling against Microsoft Word when creating documents of this sort. Because this document is particularly long, I also wanted to enable links and a menu, things that Word does not do very well. For that reason, I wrote these pages in Markdown and structured a small web page around them. You can access the page through the `index.html` file. I wrote a JavaScript function that the page calls which retrieves the Markdown file, converts it into HTML (using `marked`), builds a navigation menu from it, and links the sections of the document together. In my opinion, this is far more "user friendly" than a very long Word document, but you may not agree. For that reason, here are some guidelines for updating this document and, of course, for simply turning it into a Word file and leaving it all behind.
+
+### <a name='website'></a>Getting the Website Version to Work
+
+At the outset, I am posting these materials as a website through my own GitHub account. I will leave this up for at least a year, in case you prefer referring to it there. If you want to move this documentation to your own computer, follow these steps:
+
+1. Download the [ZIP file of these materials](Handbooks.zip).
+
+2. You can unzip the documents from this folder and access the individual PDF, DOCX, and RTF files that way. If you want to use the website version of this documentation, however, you will likely need to set up a local server. This is easy to do from the command line using Python, which is pre-installed on Apple computers. Use the `terminal` to navigate to the handbooks folder and enter `python -m SimpleHTTP 8000`. Then open a web browser and go to `localhost:8000`. I have streamlined this process using a small bash script (it navigates, opens a browser window to the correct page, and runs the server) that I leave on my desktop. I would be happy to share that with you if you are interested.
+
+3. To post these documents online, perhaps for ease of use or so that you can share them with your teaching assistants, you will need a hosting service. FSU offers free space through their IT department. You can find information (as of now) at [their web site](http://its.fsu.edu/Web-Services/Web-Sites-for-Individuals). Once that is running, you should be able to follow their directions to mount the drive from your computer. Then just copy the folder into the page and navigate your browser to the `index.html` file.
+
+### <a name='markdown'></a>Editing the Instructor Handbook
+
+Markdown is an intentionally simple plain text editing format. To create a header, you put "hashtags" (pound signs?) in front of your text. The more you use, the smaller the sub-heading. To create a bulleted list, you just put an asterisk in front of each line. You should be able to pick up the pattern by editing this document, but if you want more complete instructions on using Markdown (I recommend learning it if you are not already familiar), try a Google search or a site [like this one](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+I use [GitHub's Atom plain text editor](https://atom.io) to create and edit this type of file. It has a built-in markdown previewer. You can use whatever you would like, however. Google Chrome has extensions that read Markdown files that is useful for previewing your content as well. [Markdown Preview Plus](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl) allows for "GitHub flavored" rendering.
+
+By editing the file `InstructorHandbook.md`, the `index.html` file and its associated JavaScript files will auto-magically render your new content and create an appropriate menu bar. I wrote the page to work on a regular computer, but you could modify it to read more effectively on mobile by using some of the features of Bootstrap and jQuery, both of which are already attached to this site.
+
+### <a name='pandoc'></a>Creating a Microsoft Word Document
+
+If you prefer to just work within a Word document, I provide that in these files here [MS Word, DOCX Version](InstructorHandbook.docx). If, however, you are like me and dislike Word, and want to continue life in Markdown, but need an edited Word version to share, it is shockingly easy to make the conversion.
+
+You need a program called `Pandoc`. It runs from the command line. If you have a Windows computer, your directions may differ from these. See [Install Pandoc](http://pandoc.org/installing.html). To get it, open the Terminal (`Command+Space` should bring up a search, just type in `Terminal`).
+
+If you have an installer program (like `homebrew`), it is very easy: just type:
+
+```
+brew install pandoc
+```
+
+If you don't have homebrew installed, you can get it by copying this into the terminal window:
+
+```
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install pandoc
+```
+
+The beauty of Pandoc is that, to convert your Markdown file to a DOCX, all you need to do is navigate to your folder and type one command. Here is an example, just copy and paste it while changing the relevant items. The first line navigates, so change that to reflect where you put the Handbooks folder. The second line does the conversion. You can choose the new file name (InstructorHandbook.docx here), but leave the rest alone. And suddenly you have a nicely formatted Word file.
+
+```
+cd /Volumes/MacintoshHD/Teaching/Handbooks
+pandoc -o InstructorHandbook.docx -f markdown -t docx InstructorHandbook.md
+```
 
 ## <a name='contacts'></a>Important Contacts
 
-Outside of the College of Music
+Teaching these courses situates you between a handful of departments. The people and departments below have proven to be invaluable in negotiating some of the complexities borne of the position.
 
-* John Crow
-* ODL site
-* Michelle Pohto
-* Christopher Witulski
-* Colin (media)
-
-## <a name='edit-docs'></a>Editing this Documentation
+* The [Office of Distance Learning]() runs online courses. Their site is useful, but the people who work there are more so.
+* John Crow ([jlcrow@campus.fsu.edu](mailto:jlcrow@campus.fsu.edu)) is the main project manager at ODL for these classes. He is familiar with them and can help to navigate any administrative difficulties arising from auxiliary budgets and whatnot.
+* Michelle Pohto ([mmpohto@fsu.edu](mailto:mmpohto@fsu.edu)) can assist with similar financial questions arising from the College of Music side of things.
+* Christopher Witulski (me!, [chris.witulski@gmail.com](mailto:chris.witulski@gmail.com)) developed the courses and is happy to provide any answers, insight, or advice as you move through teaching them.
+* Colin Creasy ([ccreasy@campus.fsu.edu](mailto:ccreasy@campus.fsu.edu)) directs the media team at ODL. He has resources to assist in the creation of new video content. If and when you decide to build new lessons, he can help to make them look professional and give guidance on how to ensure student engagement.

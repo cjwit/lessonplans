@@ -1,4 +1,4 @@
-# <a name='top'></a>FSU College of Music Online Teaching
+# FSU College of Music Online Teaching
 
 These materials provide a guide to teaching the large online non-major courses at FSU that were created by Christopher Witulski between 2014 and 2016. Please send any questions to [cwitulski@fsu.edu](mailto:cwitulski@fsu.edu).
 
