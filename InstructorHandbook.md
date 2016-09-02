@@ -1,6 +1,8 @@
 # Sub Plans
 
-## Concert Choir
+## Individual Classes and Ensembles
+
+### Concert Choir
 
 The first day I usually go over the expectations and syllabus. On the syllabus I make sure that the students have the concert dates for the year. I tell them they have no excuse not to be available for the concerts and that their grade automatically becomes a 65 if they do not attend the concert. The only acceptable excuse for missing a concert is a family emergency or a severe illness and they must provide documentation to support this.
 
@@ -12,11 +14,11 @@ I have put together repertoire lists for the year, but please feel free to chang
 
 Lessons – Usually concert choir kids get a few lessons a marking period, but this year your schedule only gives you one lesson per day. You will need that time to prep cabarets, All County auditions and All County so I would not plan on the concert choir kids getting a ton of lessons in if any at all.
 
-## Select Choir
+### Select Choir
 
 My select choir had quite a bit of turnover, particularly in the soprano section, this year. You will probably need to do some significant work on blend and singing as an ensemble in the beginning, but their first concert is the Cabaret concert in October. For this concert, they usually do two or three pieces as a group, one guys piece, a girls piece, and each of them has the opportunity to do a solo (but only if they want to). Solos have to be able to be purchased on musicnotes.com. Talk to main office about how they want you to purchase the music. I know they used textbook money at one point.
 
-## Performing Arts I  
+### Performing Arts I  
 
 I start by playing a LOT of improv games. I left the teachers handbook of the book I love and the Viola Spolin book on the desk. These are great starting spots. Start with a bunch of icebreakers so that the class can get comfortable with each other and don’t let them play games where they talk too soon. Physicality is far more important than words in the beginning. There is a plastic bin in the closet next to the desk that is full of the game cards referenced in the teachers handbook.
 
@@ -32,7 +34,7 @@ The next section of the class focuses on playwriting. Have the students read thr
 
 The last unit of the year is the Shakespeare unit. We do a brief history of Shakespeare and a study of the differences between comedy and tragedy. The students read A Midsummer Night’s Dream out loud as a class. I interrupt frequently to help them understand what is happening and also supplement with the 1999 movie to help them. When they’ve concluded reading Midsummer, we spend a few days in the computer lab selecting a Shakespearean monologue of their own. For their final exam, they present a brief synopsis of the play that the monologue is from, explain what happened right before their monologues, where they are and who they are talking to and then perform their monologue from memory.
 
-## Performing Arts II
+### Performing Arts II
 
 Begin by reviewing the parts of the play (exposition, inciting incident, point of attack, rising action, climax/crisis, denouement, conclusion). Read several of the short plays from the One Act Play book out loud and diagram them.  Then read The Importance of Being Earnest out loud as a class. I use the Reese Witherspoon/Colin Firth movie along with this to help them understand what is happening. The next piece of this is one of the trickiest of the class. Each student writes their own ten to fifteen page play. They must have a character for all the other students in the class. They must have a plot that contains all the parts of a play. They must include stage directions, etc.
 
@@ -44,7 +46,7 @@ Next I do a unit on special effects make-up – bruises, scars, etc. Take the ti
 
 Lastly, I find a play that suits the make up of the class – 8 women, 7 men – whatever. They spend a chunk of time doing a very in-depth character analysis. As a final project for the year, we rehearse and perform the play. I’ve always wanted to perform it in an evening for their parents and friends but have never been able to make that happen.
 
-## Music in Our Lives
+### Music in Our Lives
 
 I’m going to attach the [scope and sequence](CourseDocs/MusicinOurLivesHSScopeSequence.pdf) for the year, but I left you the textbook that the course is based on.
 
@@ -52,18 +54,18 @@ I start by teaching the 1920s – rhythm and blues, tin pan alley, country – a
 
 The students’ final exam project is to teach a modern artist of their choice to the class.
 
-## Music Theory  
+### Music Theory  
 
 There are Alfred music theory books on the shelf. I’m sorry that they aren’t on the desk! I wasn’t aware that this course was running when I left the books. I start with book one and work through book one and book two of the Alfred. Usually, I spend Monday and Wednesday of each week working on theory, Tuesday and Thursday working on aural skills (sight reading, dictation, listening) and Friday as a music history day. I use the ipads for the students to do composition and record music. All of the apps on the ipads are pretty awesome for composition. Most (if not all) of the ipads have an aural skills app as well.
 
 
-## Ipads  
+### iPads  
 
-The ipads all have a passcode on them. The passcode is 3424. There are four new ipads that haven’t been set up yet. Feel free to use them in any class you want. They were bought by the vocal music department. Sometimes, other staff will ask if they can borrow them. This is fine as long as they come back to you and you have them when you need them.
+The iPads all have a passcode on them. The passcode is 3424. There are four new ipads that haven’t been set up yet. Feel free to use them in any class you want. They were bought by the vocal music department. Sometimes, other staff will ask if they can borrow them. This is fine as long as they come back to you and you have them when you need them.
 
 ## Concerts  
 
-### October Cabaret
+**October Cabaret**
 
 For this concert, they usually do two to three pieces as a group, one guys piece, a girls piece, and each of them has the opportunity to do a solo (but only if they want to). Solos have to be able to be purchased on musicnotes.com. Talk to main office about how they want you to purchase the music. I know they used textbook money at one point.
 
@@ -71,17 +73,17 @@ I usually let the students choose two songs to purchase and try from musicnotes.
 
 We charge $5 a ticket for this concert. The money raised from this concert goes into the theater club account and is used to pay for the accompanist for the rest of the year. Count it as a donation and then the paperwork is much easier.
 
-### Winter Concert  
+**Winter Concert**
 
 Select Choir performs three pieces on this concert. We begin working on them immediately following the Cabaret concert.
 
 Concert Choir does four to five pieces.
 
-### February Cabaret
+**February Cabaret**
 
 The concert is only Select Choir. Traditionally, this concert is only solos or duets. Follow the same procedure as the fall cabaret and begin preparation in January. I usually have the students select their music in December so that we can begin immediately when we return to school.
 
-### District Concert
+**District Concert**
 
 Select Choir does one piece on this concert. It’s usually something very difficult so that it keeps their interest, but during this time period they are also prepping for the February Cabaret and the prism concert so boredom isn’t a huge issue.
 
@@ -89,21 +91,21 @@ Concert Choir does two pieces on this concert.
 
 It is my turn to conduct a full district piece on this concert. Check with Christi and Erica to see if they would like you to do so. I have not chosen a piece for this yet.
 
-### Prism Concert
+**Prism Concert**
 
 Select Choir usually does two to three pieces on this concert of a variety of styles.
 
-### Awards Concert  
+**Awards Concert**
 
 Select Choir does four pieces on this concert – two full ensemble, one guys piece and one girls piece.
 
 Concert Choir also does four pieces on this concert – two full ensemble, one guys piece and one girls piece. Traditionally, the seniors in choir also choose a piece to perform. This piece is used at the concert, at baccalaureate if they wish and at graduation.
 
-### Baccalaureate
+**Baccalaureate**
 
 Oftentimes, the baccalaureate committee will ask the Select choir and/or the Senior choir (just the seniors in choir) to perform at this non-denominational Christian service celebrating graduation. I do not ever make them. We discuss it as a group and vote. If I have the correct number/the right parts, we perform. Otherwise, we don’t.
 
-### Graduation  
+**Graduation**
 
 See Baccalaureate because this is the same deal.
 
@@ -117,22 +119,21 @@ For the drama, I chose The Odd Couple (female version) as you have many talented
 
 The district offers five stipend positions for the musical.
 
-Director – which is you.
+**Director** – which is you.
 
-Assistant Director – Traditionally my former co-worker, Christy Hout, however, she is also planning on taking a year off so you will have this role to fill as you see fit. The stipend is about $700 for the whole show.
+**Assistant Director** – Traditionally my former co-worker, Christy Hout, however, she is also planning on taking a year off so you will have this role to fill as you see fit. The stipend is about $700 for the whole show.
 
-Choreographer – Jaime Akerley. Jaime is outstanding and she will help you with casting and the kids as she knows them well. (585) 415-7754
+**Choreographer** – Jaime Akerley. Jaime is outstanding and she will help you with casting and the kids as she knows them well. (585) 415-7754
 
-Set Designer – Despite this title, Dave Cocquyt does not actually design or build the sets for me. We use this stipend as a retainer where he makes sure that the sets the students and I build are safe and helps with any custom projects needed for that particular show. (Ex: The trolley in Meet Me in St. Louis)
+**Set Designer** – Despite this title, Dave Cocquyt does not actually design or build the sets for me. We use this stipend as a retainer where he makes sure that the sets the students and I build are safe and helps with any custom projects needed for that particular show. (Ex: The trolley in Meet Me in St. Louis)
 
-Accompanist – Traditionally, Christine Schwind, however she has been on the fence about doing the show this year due to her two young children. You will have to call her and give her your hope as to her hours and see about her interest. Possibly you could supplement her salary with money from Arts in Ed? I don’t know but it might be worth checking into. If she is not interested, Patrick had some names you could consider.
-(315) 573-4108
+**Accompanist** – Traditionally, Christine Schwind, however she has been on the fence about doing the show this year due to her two young children. You will have to call her and give her your hope as to her hours and see about her interest. Possibly you could supplement her salary with money from Arts in Ed? I don’t know but it might be worth checking into. If she is not interested, Patrick had some names you could consider. (315) 573-4108
 
 ### Non-Stipend Musical Roles
 
-Pit Band – Patrick Tyler will conduct and put together the pit orchestra for you using the arts in ed funding. Make sure that your paperwork for arts in ed is in AT LEAST a month ahead of the show dates or they will not accept it. Patrick’s salary is also paid out of arts in ed money.
+**Pit Band** – Patrick Tyler will conduct and put together the pit orchestra for you using the arts in ed funding. Make sure that your paperwork for arts in ed is in AT LEAST a month ahead of the show dates or they will not accept it. Patrick’s salary is also paid out of arts in ed money.
 
-Costumer – Cheryl Distenfeld has done this for me for years. She is exceptional and also works very well with the kids. They love and adore her and she knows our closets like the back of her hand. I do not know if she is planning on doing the show but you should definitely call and ask. (585) 313-0508
+**Costumer** – Cheryl Distenfeld has done this for me for years. She is exceptional and also works very well with the kids. They love and adore her and she knows our closets like the back of her hand. I do not know if she is planning on doing the show but you should definitely call and ask. (585) 313-0508
 
 ### Costume Closets  
 
@@ -172,11 +173,9 @@ There are also huge pieces are carpet that we put underneath the pit orchestra t
 
 SOT and ELENBEs are awards shows for the musical and drama. I will forward you all the emails I receive about it, but feel free to email the organizers to get on the list yourself. Email or call me with any questions you have and I will answer them to the best of my ability.
 
-## Piano  
+## Piano and Accompaniment
 
 We were donated a new piano last year. The piano was delivered right at the end of the year and did not have the opportunity to be tuned. Our tuner is Jeff Reimer. You should contact him and ask him to come tune the piano and install the humidifier that is in a box in the room. There is a lock on the piano to prevent damage. Our old piano was abused a lot so the lock really is necessary. I left my key to the piano lock on the key ring that is in the desk. Patrick also has one. Check with Pam to get Jeff’s contact information.
-
-## Accompanist  
 
 We use Christine Schwind to accompany our concerts. Her phone number is in the musical section. She is fabulous but she is a full time teacher at North Rose Wolcott so I mail her the music and she comes at 6 pm the night of the concert and that is our only rehearsal. If you are not comfortable with that, you could contact Kiera Carlson or Janet Follette to ask if they will play. Erica or Christi could give you contact information for them.
 
@@ -188,58 +187,64 @@ This was the rep I selected for the year. Feel free to change anything you want 
 
 ### October Cabaret
 
-#### Select Choir
-Alleluia – Hayes
-Embraceable You – In the filing cabinets (the small ones closest to the desk and exterior door are full of Select Choir music.)
-Jabula Jesu – In the filing cabinets
-Eleanor Rigby
+**Select Choir**
+
+* Alleluia – Hayes
+* Embraceable You – In the filing cabinets (the small ones closest to the desk and exterior door are full of Select Choir music.)
+* Jabula Jesu – In the filing cabinets
+* Eleanor Rigby
 
 ### Winter Concert
 
-#### Select Choir
-Jingle Bells
-Go Tell It on the Mountain – In the filing cabinets
-Midnight Clear – In the filing cabinets
+**Select Choir**
 
-#### Concert Choir  
-Bell Carol
-The Little Drummer Boy
-Silent Night – In the filing cabinets
-I Saw Three Ships
+* Jingle Bells
+* Go Tell It on the Mountain – In the filing cabinets
+* Midnight Clear – In the filing cabinets
+
+**Concert Choir**
+
+* Bell Carol
+* The Little Drummer Boy
+* Silent Night – In the filing cabinets
+* I Saw Three Ships
 
 ### District Concert  
 
-#### Select Choir  
-The Music in Me – in the filing cabinets – this has a solo in it. I would audition one of the girls to sing it.
+**Select Choir**
 
-#### Concert Choir  
-Keep Your Lamps Trimmed
-Kumbaya – in the filing cabinets
+* The Music in Me – in the filing cabinets – this has a solo in it. I would audition one of the girls to sing it.
+
+**Concert Choir**
+
+* Keep Your Lamps Trimmed
+* Kumbaya – in the filing cabinets
 
 ### Prism Concert  
 
-#### Select Choir  
-What’s New – in the filing cabinets
-Home – in the filing cabinets
+**Select Choir**
+
+* What’s New – in the filing cabinets
+* Home – in the filing cabinets
 
 ### Awards Concert  
 
-#### Select Choir  
-Daemon Irrepit – in the filing cabinet
-It Don’t Mean a Thing
-Blackbird – in the filing cabinet
-I Am Not Yours – in the filing cabinet
+**Select Choir**
 
-#### Concert Choir  
-It Takes a Village – in the filing cabinet
-Walk a Mile
-Roll Jordan Roll – in the filing cabinet
-One more that I didn’t choose yet!
+* Daemon Irrepit – in the filing cabinet
+* It Don’t Mean a Thing
+* Blackbird – in the filing cabinet
+* I Am Not Yours – in the filing cabinet
+
+**Concert Choir**
+
+* It Takes a Village – in the filing cabinet
+* Walk a Mile
+* Roll Jordan Roll – in the filing cabinet
+* One more that I didn’t choose yet!
 
 ## Conclusion
 
 I’ve written up everything I can think of, but I know there will be more. My job is so quirky and a million little things will come up that you need or want answers to. Please feel free to get in touch about anything. I want you and the students to have a great year and I will do everything I can to help. I’m great at email and texting because I can answer when I have a free moment from the babies, but if I see you calling I will answer whenever I can.
 
-[jwitulski@williamsoncentral.org](jwitulski@williamsoncentral.org)
-
-(607) 348-7266
+[jwitulski@williamsoncentral.org](jwitulski@williamsoncentral.org), (607) 348-7266
