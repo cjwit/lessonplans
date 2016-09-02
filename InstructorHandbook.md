@@ -1,4 +1,4 @@
-# Sub Plans
+# Williamson Choral Music Sub Plans
 
 ## Individual Classes and Ensembles
 
